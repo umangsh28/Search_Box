@@ -1,0 +1,24 @@
+ug/sharma/takeaway_search_box/DataBinderMapperImpl.java
+ ug.sharma.takeaway_search_box.DataBinderMapperImpl
+ ug.sharma.takeaway_search_box.DataBinderMapperImpl$InnerBrLookup
+ ug.sharma.takeaway_search_box.DataBinderMapperImpl$InnerLayoutIdLookup
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+ug/sharma/takeaway_search_box/databinding/ItemDesignBinding.java
+ ug.sharma.takeaway_search_box.databinding.ItemDesignBinding
+ug/sharma/takeaway_search_box/databinding/ActivityMainBinding.java
+ ug.sharma.takeaway_search_box.databinding.ActivityMainBinding
+ug/sharma/takeaway_search_box/BR.java
+ ug.sharma.takeaway_search_box.BR
+ug/sharma/takeaway_search_box/databinding/ItemDesignBindingImpl.java
+ ug.sharma.takeaway_search_box.databinding.ItemDesignBindingImpl
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+ug/sharma/takeaway_search_box/databinding/ActivityMainBindingImpl.java
+ ug.sharma.takeaway_search_box.databinding.ActivityMainBindingImpl
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+ug/sharma/takeaway_search_box/DataBindingTriggerClass.java
+ ug.sharma.takeaway_search_box.DataBindingTriggerClass
+ug/sharma/takeaway_search_box/BuildConfig.java
+ ug.sharma.takeaway_search_box.BuildConfig
